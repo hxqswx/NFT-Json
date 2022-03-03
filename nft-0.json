@@ -1,7 +1,8 @@
 {
-  "name": "风景 #0",
+  "name": "风景#0",
+  "symbol":"quanquan",
   "description": "圈圈 nft 0",
-  "image": "ipfs://QmcNchUuTLG9WbqayHzvkogW1VMSUtHtdBrsjoG9g8FARD?filename=IMG_4870.JPG",
+  "image": "ipfs://QmT9CFoxMBqUPgZH6CcBfeqDFMQf43tN5g9HFRygAXzX47?filename=IMG_4870.JPG",
   "dna": "5b882fd9b472c8696ca514e34a91b32e36ff48f4",
   "edition": 1,
   "date": 1646323906,
