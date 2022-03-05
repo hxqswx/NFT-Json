@@ -1,0 +1,17 @@
+{
+  "name": "威尼斯(Veniece) #0",
+  "description": "Quanquan product",
+  "image": "ipfs://QmfYsLqjJtVPVgLHySBo2BGeyXTna8RfttFh9VPg9ZhGhb?filename=IMG_4065.JPG",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "背景",
+      "value": "蓝色"
+    },
+    {
+      "trait_type": "颜色",
+      "value": "彩色"
+    }
+  ],
+  "compiler": "Quanquan Art Engine"
+}
